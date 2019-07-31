@@ -2,17 +2,14 @@
 Ecommerce project House of Poshakh is a shopping website designed for users to showcase their label
 and start a business
 
+
 # Built Using
 Java Spring MVC Hibernate HTML5
+
 
 # Getting Started
 Clone the project on your local system and open it in your code editor. You will have to change the hibernate configurations as per your connection settings.
 
-# Built With
-[Java]
-[Spring MVC]
-[Hibernate]
-[HTML5]
 
 # Screenshot
 
